@@ -57,15 +57,15 @@ export default function RootLayout({
       <head>
         <meta charSet="utf-8" />
         <title>Hoktoto : Slot Bonus New Member 100 Di Awal To 10X Dan slot Gacor 2025</title>
-        <meta name="description" content="18toto hadir sebagai solusi bagi pecinta slot online yang mencari kemudahan dan kenyamanan dalam bermain. Dengan fitur slot deposit 3000 via Dana, Anda dapat menikmati permainan seru tanpa harus mengeluarkan modal besar" />
-        <meta name="keywords" content="18toto, Deposit Dana 5000k, Situs Judi Online, Dana Slot77, situs Slot Dana, Gopay 69 Slot, Situs Slot Deposit 5000, Situs Slot Gacor Hari Ini Via Dana, Slot Deposit 3000 Via Dana, Situs Slot Gacor Jam Ini" />
-        <meta name="google-site-verification" content="veMyOTuOGYmEQDMDDL9R58xwmmCMdesJMcTMkYDqZ3Q" />
-        <meta name="application-name" content="18toto" />
+        <meta name="description" content="Hoktoto hadir dengan promo menarik yang sayang untuk dilewatkan! Nikmati bonus new member 100% di awal hanya dengan melakukan deposit pertama Anda. Dengan turnover (TO) yang rendah, yaitu hanya 10x, Anda bisa lebih mudah meraih kemenangan dan menikmati keuntungan besar. Ini adalah kesempatan sempurna untuk pemain baru yang ingin memulai perjalanan seru di dunia slot online" />
+        <meta name="keywords" content="Hoktoto, Slot Bonus New Member 100 Di Awal To 10X, slot Gacor 2025, Deposit Via Dana, Deposit Pulsa Tanpa Potongan, Depo 50 Bonus 50 To 3X, Link Gacor Deposit Dana, Situs Slot Gacor Hari Ini, slot resmi pragmatic play, Link Slot Gates OF Olympus" />
+        <meta name="google-site-verification" content="qeql0PmWocmN6Pb_DexNO3owND6oYimXZALrc3-M8KA" />
+        <meta name="application-name" content="hoktoto" />
         <link rel="author" href={nameDomain} />
         <link rel="canonical" href={nameDomain} />
-        <meta name="author" content="18toto" />
-        <meta name="publisher" content="18toto" />
-        <meta name="copyright" content="18toto" />
+        <meta name="author" content="hoktoto" />
+        <meta name="publisher" content="hoktoto" />
+        <meta name="copyright" content="hoktoto" />
         <meta name="robots" content="index, follow" />
         <meta name="googlebot" content="index, follow" />
         <meta name="category" content="slot" />
@@ -82,14 +82,14 @@ export default function RootLayout({
         <meta property="og:title" content="Hoktoto : Slot Bonus New Member 100 Di Awal To 10X Dan slot Gacor 2025" />
         <meta property="og:description" content="Hoktoto : Slot Bonus New Member 100 Di Awal To 10X Dan slot Gacor 2025, menawarkan pengalaman bermain slot gacor terbaik dengan keamanan terjamin. Nikmati pasaran Toto hongkong lotto lengkap dengan peluang menang tinggi, serta transaksi yang cepat dan aman. Menangkan hadiah besar di situs terpercaya ini!" />
         <meta property="og:url" content={nameDomain} />
-        <meta property="og:site_name" content="18toto" />
+        <meta property="og:site_name" content="hoktoto" />
         <meta property="og:locale" content="id_ID" />
         <meta property="og:image" content={nameDomain} />
         <meta property="og:image:width" content="840" />
         <meta property="og:image:height" content="480" />
         <meta property="og:type" content="website" />
         <meta name="twitter:card" content="summary" />
-        <meta name="twitter:creator" content="18toto" />
+        <meta name="twitter:creator" content="hoktoto" />
         <meta name="twitter:title" content="Hoktoto : Slot Bonus New Member 100 Di Awal To 10X Dan slot Gacor 2025" />
         <meta name="twitter:description" content="Hoktoto : Slot Bonus New Member 100 Di Awal To 10X Dan slot Gacor 2025, menawarkan pengalaman bermain slot gacor terbaik dengan keamanan terjamin. Nikmati pasaran Toto hongkong lotto lengkap dengan peluang menang tinggi, serta transaksi yang cepat dan aman. Menangkan hadiah besar di situs terpercaya ini!" />
         <meta name="twitter:image" content={nameDomain} />
