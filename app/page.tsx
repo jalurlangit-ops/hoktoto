@@ -90,10 +90,10 @@ export default function Home() {
             </div>
             <h1>hoktoto 🔥 Situs Judi Resmi Deposit Dana Dan Slot Maxwin Terbesar!</h1>
             <p>
-              hoktoto muncul sebagai situs resmi yang menarik perhatian para pemain slot/casino/poker/baccarat/roulette/zeus. Dikenal karena menawarkan slot Maxwin terbesar, hoktoto menggabungkan rtp yang sangat akurat hingga 99%.
+              Bersiaplah meraih kemenangan besar bersama Hoktoto, platform slot online terpercaya yang menghadirkan penawaran luar biasa untuk para member baru. Nikmati bonus new member 100% di awal dengan syarat turnover (TO) hanya 10x, sehingga peluang Anda untuk mendapatkan keuntungan berlipat ganda semakin nyata. Dengan berbagai pilihan permainan slot yang seru dan inovatif, pengalaman bermain Anda akan selalu terasa menyenangkan dan penuh kejutan. Jangan lewatkan kesempatan ini untuk memulai perjalanan slot Anda dengan awal yang menguntungkan
             </p>
             <p>
-              hoktoto menyediakan pembayaran yang beragam dari E-wallet (Dana/Ovo/LinkAja/Sakuku/Jenius/Dll), QRIS yang cepat, serta beberapa bank national seperti BCA/BNI/MANDIRI/BRI!
+              Tahun 2025 menjadi lebih seru dengan hadirnya slot gacor terbaik hanya di Hoktoto! Temukan permainan slot yang dirancang khusus dengan tingkat kemenangan tinggi dan fitur-fitur modern yang memukau. Dengan dukungan sistem yang aman dan pelayanan pelanggan 24/7, Anda dapat bermain kapan saja dan di mana saja tanpa khawatir. Bergabunglah sekarang dan jadilah bagian dari komunitas pemenang Hoktoto. Raih kemenangan besar Anda hari ini—siapkan strategi, putar gulungan, dan nikmati sensasi jackpot yang mendebarkan
             </p>
             
             <p>
